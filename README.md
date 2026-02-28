@@ -7,7 +7,7 @@
 
 ## Projects
 
-### 🚗 Project 1 — AI Digital Twin: Vehicle Sensor Monitor
+###  Project 1 — AI Digital Twin: Vehicle Sensor Monitor
 `project1_digital_twin/`
 
 Simulates 5 vehicle sensors (speed, engine temperature, battery voltage,
@@ -16,7 +16,7 @@ anomalies using **Isolation Forest** (unsupervised ML).
 
 → Core concept: **predictive maintenance** in a Digital Twin environment.
 
-### 🏭 Project 2 — AI Quality Control: Synthetic Defect Detection
+###  Project 2 — AI Quality Control: Synthetic Defect Detection
 `project2_defect_detection/`
 
 Generates synthetic factory part images across 5 defect classes (normal,
@@ -51,4 +51,4 @@ python main.py
 
 ---
 
-*Built as interview demo projects — Mercedes-Benz Digitalisierung KI Team, 2026*
+*Built as demo projects — Mercedes-Benz Digitalisierung KI Team, 2026*
