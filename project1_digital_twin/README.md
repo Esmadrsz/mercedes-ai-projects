@@ -11,7 +11,7 @@ maintenance in a Digital Twin environment.
 
 ## Demo Output
 
-![Dashboard](assets/digital_twin_dashboard.png)
+![Dashboard](digital_twin_dashboard.png)
 
 ---
 
