@@ -1,7 +1,7 @@
 # Mercedes-Benz AI Projects
 
 > Two end-to-end machine learning projects built for the
-> **Mercedes-Benz Digitalisierung — KI Team** internship application.
+> **Mercedes-Benz Digitalisierung — KI Team**
 
 ---
 
