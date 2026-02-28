@@ -30,7 +30,7 @@ classifies them with a **Random Forest** — reaching 99.5% accuracy.
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mercedes-ai-projects.git
+git clone https://github.com/Esma Dogrusozlu/mercedes-ai-projects.git
 
 # Project 1
 cd project1_digital_twin
