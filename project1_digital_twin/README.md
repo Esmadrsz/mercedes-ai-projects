@@ -39,7 +39,7 @@ project1_digital_twin/
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/YOUR_USERNAME/mercedes-ai-projects.git
+git clone https://github.com/Esma Dogrusozlu/mercedes-ai-projects.git
 cd mercedes-ai-projects/project1_digital_twin
 
 # 2. Install dependencies
