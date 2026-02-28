@@ -1,6 +1,6 @@
 # AI Digital Twin — Vehicle Sensor Monitor
 
-> **Mercedes-Benz Digitalisierung · KI Team · Interview Demo**
+> **Mercedes-Benz Digitalisierung · KI Team **
 
 A production-structured AI pipeline that simulates vehicle sensor data,
 detects anomalies with unsupervised machine learning, and renders a
@@ -119,14 +119,4 @@ Six-panel dark-theme visualization:
 
 ---
 
-## Interview Notes
 
-**"Why Isolation Forest and not a neural network?"**
-> Fault labels are scarce in real production — unsupervised is the
-> realistic choice. Isolation Forest is also interpretable: every
-> data point gets a continuous anomaly score, not just a binary flag.
-
-**"How does this relate to Digital Twin?"**
-> A Digital Twin mirrors a physical asset in real time. This pipeline
-> is the AI layer of that system — ingesting sensor streams, flagging
-> deviations, and enabling predictive maintenance before a failure occurs.
