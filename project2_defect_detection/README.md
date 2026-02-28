@@ -1,6 +1,6 @@
 # AI Quality Control — Synthetic Defect Detection
 
-> **Mercedes-Benz Digitalisierung · KI Team · Interview Demo**
+> **Mercedes-Benz Digitalisierung · KI Team 
 
 A production-structured ML pipeline that generates synthetic factory
 part images, extracts statistical features, and trains a classifier
@@ -127,21 +127,4 @@ Feature importance shows which statistics matter most.
 
 ---
 
-## Interview Notes
 
-**"Why not a CNN?"**
-> For 1000 images and 64×64 resolution, a CNN would overfit without
-> heavy augmentation. Random Forest on handcrafted features is a
-> strong, interpretable baseline. At production scale (millions of
-> images), I would fine-tune a pretrained ResNet or ViT.
-
-**"What is feature importance?"**
-> It measures how much each feature reduces prediction error across
-> all trees. It's a built-in explainability tool — I can tell the
-> engineering team exactly which visual property (e.g. dark pixel
-> ratio) drives crack detection.
-
-**"How does synthetic data connect to Mercedes?"**
-> Mercedes and NVIDIA use Omniverse to generate photorealistic
-> synthetic training data for exactly this problem — avoiding the
-> need to collect and label thousands of real defect images.
