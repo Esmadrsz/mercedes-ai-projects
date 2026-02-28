@@ -40,7 +40,7 @@ project2_defect_detection/
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/mercedes-ai-projects.git
+git clone https://github.com/Esma Dogrusozlu/mercedes-ai-projects.git
 cd mercedes-ai-projects/project2_defect_detection
 
 # 2. Install
