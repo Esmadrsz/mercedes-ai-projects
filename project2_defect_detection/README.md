@@ -113,17 +113,6 @@ Feature importance shows which statistics matter most.
 | Overall accuracy | ~99.5% |
 | Training time | < 5 s |
 | Inference (1 image) | < 1 ms |
-| Parameters | 0 (no neural network) |
-
----
-
-## Roadmap
-
-- [ ] CNN / ViT on raw pixels for comparison
-- [ ] Grad-CAM visualizations (which pixels drove the decision?)
-- [ ] Integration with NVIDIA Omniverse synthetic renderer
-- [ ] ONNX export for edge deployment (camera unit)
-- [ ] Streamlit live inspection demo
 
 ---
 
