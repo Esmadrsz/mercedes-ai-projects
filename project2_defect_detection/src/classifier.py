@@ -50,7 +50,7 @@ def train(features: np.ndarray,
           class_names: list[str],
           test_size: float = 0.20,
           n_estimators: int = 100,
-          max_depth: int = 15,
+          max_depth: int = 5,
           min_samples_split: int = 5,
           random_state: int = 42) -> ClassificationResult:
     """
