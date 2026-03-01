@@ -11,7 +11,7 @@ approach used with NVIDIA Omniverse and Unity in real manufacturing AI.
 
 ## Demo Output
 
-![Results](defect_detection_results.png)
+![Results](defect_detection_results.png?raw=true)
 
 ---
 
