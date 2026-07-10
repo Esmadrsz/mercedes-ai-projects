@@ -110,7 +110,7 @@ Feature importance shows which statistics matter most.
 
 | Metric | Value |
 |--------|-------|
-| Overall accuracy | ~99.5% |
+| Overall accuracy | ~88.5% |
 | Training time | < 5 s |
 | Inference (1 image) | < 1 ms |
 
