@@ -12,7 +12,7 @@ from pathlib import Path
 import numpy as np
 import pytest
 
-sys.path.insert(0, str(Path(_file_).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from src.generator  import generate_image, build_dataset, CLASS_NAMES
 from src.features   import extract_one, extract_all, N_FEATURES
 from src.classifier import train
